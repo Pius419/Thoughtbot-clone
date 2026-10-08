@@ -1,0 +1,963 @@
+body{
+    background-color:rgb(32, 19, 19) ;
+   color: white;
+   
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 5;
+    height: 70px;
+    width: 100%;
+    background-color: rgb(32, 19, 19);
+}
+header{
+   
+    align-items: center;
+}
+/* .everything{
+    margin-left: 50px;
+    margin-right: 200px ;
+} */
+.span1 a {
+    text-decoration: none;
+    padding-left: 90px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    
+}
+
+.span2 a{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+   margin-left: 400px;
+    color: white;
+    text-decoration: none;
+}
+.span2 a:hover{
+    text-decoration: underline;
+    color: RGB(255, 199, 38);
+    
+}
+.span3 a{
+     color: white;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+   margin-left: 30px;
+}
+.span3 a:hover{
+    text-decoration: underline;
+    color: RGB(255, 199, 38);
+}
+.span4 a{
+       color: white;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    margin-left: 30px;
+}
+.span4 a:hover{
+     text-decoration: underline;
+    color: RGB(255, 199, 38);
+}
+.span5 a{
+       color: white;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    margin-left: 30px;
+}
+.span5 a:hover{
+     text-decoration: underline;
+    color: RGB(255, 199, 38);
+}
+.span6 a{
+       color: RGB(255, 199, 38);;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+  margin-left: 30px;
+}
+.span6 a:hover{
+    text-decoration: underline;
+}
+.span7 a{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    border: 2px;
+    border-radius: 25px;
+    border-style: solid;
+    height: 10px;
+    width: 10px;
+    border-color:rgb(206, 45, 45) ;
+   background-color: rgb(206, 45, 45);
+   padding-left: 25px;
+   padding-bottom: 15px;
+   padding-top: 15px;
+   margin-left: 30px;
+   text-align: justify;  
+   color: white;
+   text-decoration: none;
+   margin-left: 350px; 
+}
+
+
+.h1{
+     padding-left: 250px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 27px;
+    padding-left: 250px;
+}
+.anchor {
+    color: #e7d18f;
+}
+.anchor:hover{
+    text-decoration: none;
+    color:rgb(255, 199, 38) ;
+}
+.hr1{
+    margin-left: 250px;
+    margin-right: 300px;
+}
+.span8 {
+    color: rgb(32, 19, 19);
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 20px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 25px;
+    height: 5px;
+    width: 5px;
+    padding: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 250px;
+    background-color:rgb(255, 199, 38) ;
+    border-color: rgb(255, 199, 38);
+}
+.anchor2{
+    text-decoration: none;
+}
+
+.span9 {
+    background-color: ;
+      font-family: 'Courier New', Courier, monospace;
+   font-size: 20px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 25px;
+    height: 5px;
+    width: 5px;
+    padding: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    border-color: rgb(123, 110, 104);
+}
+.span9 a{
+    color: white;
+    text-decoration: none;
+}
+.span9:hover{
+    background-color: rgb(255, 231, 163);
+    border: none;
+}
+.anchor3:hover{
+    text-decoration: none;
+  
+}
+.span10{
+     font-family: 'Courier New', Courier, monospace;
+   font-size: 20px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 25px;
+    height: 5px;
+    width: 5px;
+    padding: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    border-color: rgb(123, 110, 104);
+}
+.span10 a{
+    color: white;
+    text-decoration: none;
+}
+.span10:hover{
+    background-color:rgb(255, 231, 163) ;
+    border: none;
+}
+.anchor4:hover{
+    text-decoration: none;
+}
+.span11{
+     font-family: 'Courier New', Courier, monospace;
+   font-size: 20px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 25px;
+    height: 5px;
+    width: 5px;
+    padding: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    border-color: rgb(123, 110, 104);
+}
+.span11 a{
+     color: white;
+    text-decoration: none;
+}
+.span11:hover{
+     background-color:rgb(255, 231, 163) ;
+     border: none;
+     
+}
+.anchor5:hover{
+    text-decoration: none;
+    
+}
+.span12{
+     font-family: 'Courier New', Courier, monospace;
+   font-size: 20px;
+    margin-left: 10px;
+    border: 2px;
+    text-decoration: underline;
+}
+.anchor6{
+    color: white;
+    text-decoration: underline;
+    text-decoration-style:dotted ;
+}
+.anchor6:hover{
+    color: rgb(255, 185, 28);
+    text-decoration: none;
+    
+}
+.heading{
+    padding-left: 250px;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 30.656px;
+    font-weight: 700;
+    margin-right: 250px;
+}
+.div1{
+   margin-left: 250px;
+   margin-right: 420px;
+
+}
+.bigpicture{
+    margin-left: 250px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 20.25px;
+}
+.michelle a{
+margin-left: 250px;
+color: #e7d18f;
+font-size: 24px;
+}
+.Michelle{
+    font-size: 24px;
+}
+.healthcare{
+    font-size: 25px;
+    margin-left: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.signup{
+    border: 1px solid red;
+    padding: 50px 15px;
+   margin-left: 490px;
+   margin-right: 450px;
+   background-color: rgb(47, 28, 28);
+   border-color: rgb(47, 28, 28);
+   border-radius:7px;
+}
+.signup h2{
+    margin-top: -3%;
+    font-size: 36px;
+}
+.signup label{
+    font-size: 26px;
+}
+.form input{
+    margin-top: 15px;
+    width: 70%;
+    height: 30px;
+    background-color: rgb(47, 28, 28);
+    border: none;
+    border-bottom: 1px solid white;
+}
+.form button{
+    margin-left: 2%;
+    width: 120px;
+    padding: 14px 18px;
+    border: 1px solid rgb(206, 45, 45);
+    background-color: rgb(206, 45, 45);
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+}
+.looking{
+    display: flex;
+    margin-left: 600px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.check{
+     padding: 0px 200px;
+     text-decoration: underline;
+     text-decoration-style: dotted;
+}
+.check a{
+    color: #e7d18f;
+}
+.check a:hover{
+    text-decoration: none;
+}
+.announcing{
+    border-top: 2px solid rgb(47, 28, 28) ;
+    width: 60%;
+    /* text-align: center; */
+    margin-left: 500px;
+
+}
+.announcing a{
+  /* width: 50%; */
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 700;
+   font-size: 37px;
+   color: white;
+   text-decoration: none;
+   /* margin-left: 450px; */
+  
+
+}
+.announcing a:hover{
+    color: rgb(255, 199, 38);
+}
+.depend{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20.25px;
+    font-weight: 400;
+}
+.neil a{text-decoration: none;
+    margin-left: 500px;
+    color: #e7d18f;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.neil a:hover{
+   color:  RGB(255, 199, 38);
+}
+.open a{
+    font-size: 15.84px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 500px;
+    text-decoration: none;
+    color: white;
+}
+.open a:hover{
+    color: RGB(255, 199, 38);
+}
+.when a{
+   /* border: 2px solid red; */
+    font-weight: 700;
+    color: white;
+    text-decoration: none; 
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 37px;
+    padding-left: 500px;
+   
+     
+}
+.when a:hover{
+   color:  RGB(255, 199, 38);
+}
+.when2{
+    margin-left: 500px;
+}
+.vibe{
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20.25px;
+    margin-left: 500px;
+    
+}
+.rob{
+    margin-left: 500px;
+    color: #e7d18f;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.rob:hover{
+    color:  RGB(255, 199, 38);
+}
+.october{
+    font-size: 20px;
+}
+.rail{
+    margin-left: 500px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.rail a{
+    text-decoration: none;
+    color: white;
+}
+.rails:hover{
+    color:  RGB(255, 199, 38);
+}
+.ruby:hover{
+    color:  RGB(255, 199, 38);
+}
+.community:hover{
+    color:  RGB(255, 199, 38);
+}
+.event:hover{
+    color:  RGB(255, 199, 38);
+}
+.we {
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 31.5px;
+    font-weight: 700;
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.we a{
+    text-decoration: none;
+    color: white;
+}
+.we a:hover{
+    color:  RGB(255, 199, 38);
+}
+.join{
+    margin-left: 500px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.maria{
+    margin-left: 500px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #e7d18f;
+}
+.maria:hover{
+    color:RGB(255, 199, 38) ;
+}
+/* .conference a{
+    margin-left: 500px;
+    text-decoration: none;
+    color: white;
+} */
+ .conference a{ 
+    /* display: flex; */
+    margin-left: 500px;
+    text-decoration: none;
+    color: white;
+ }
+
+ .main a:hover{
+    color:RGB(255, 199, 38) ;
+ }
+ .event a{
+     color: white;
+    text-decoration: none;
+ }
+ .product a{
+    color: white;
+    text-decoration: none;
+ }
+ .respecting{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 31.5px;
+    font-weight: 700;
+    margin-left: 500px;
+    margin-top: 80px;
+ }
+ .respecting a{
+    text-decoration: none;
+    color: white;
+ }
+ .respecting a:hover{
+      color:  RGB(255, 199, 38);
+ }
+ .some{
+     margin-left: 500px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+ }
+ .dave {
+    margin-left: 500px;
+    color: #e7d18f;
+    text-decoration: none;
+    font-size: 20px;
+ }
+ .dave:hover{
+    color:  RGB(255, 199, 38) ;
+ }
+ .month{
+    font-size: 20px;
+ }
+ .root {
+    /* border: 2px solid rebeccapurple; */
+    color: white;
+    text-decoration: none;
+    margin-left: 500px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    /* padding-left: 100px; */
+    margin-right: 900px;
+    margin-top: 10px;
+
+    
+ }
+ .root a{
+    text-decoration: none;
+    color: white;
+   
+ }
+ .root a:hover{
+    color: RGB(255, 199, 38) ;
+ }
+.thoughtbot{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 31.5px;
+    font-weight: 700;
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.thoughtbot a{
+    text-decoration: none;
+    color: white;
+}
+.thoughtbot a:hover{
+    color:RGB(255, 199, 38) ;
+}
+.help{
+      margin-left: 500px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.dave2 {
+    margin-left: 500px;
+    font-size: 20px;
+    color: #e7d18f;
+    text-decoration: none;
+}
+.dave2:hover{
+    color:RGB(255, 199, 38) ;
+}
+.month2{
+    font-size: 20px;
+}
+.next {
+    /* border: 2px solid rebeccapurple; */
+    margin-left: 500px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+     margin-right: 800px;
+    margin-top: 10px;
+
+}
+.next a{
+    color: white;
+    text-decoration: none;
+}
+.next a:hover{
+    color: RGB(255, 199, 38) ;
+}
+.from{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 31.5px;
+    font-weight: 700;
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.from a{
+    text-decoration: none;
+    color: white;
+}
+.from a:hover{
+    color:RGB(255, 199, 38) ;
+}
+.movings{
+  margin-left: 500px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.mariia{
+     margin-left: 500px;
+    font-size: 20px;
+    color: #e7d18f;
+    text-decoration: none;
+}
+.mariia:hover{
+     color:RGB(255, 199, 38) ;
+}
+.ember{
+    font-size: 20px;
+}
+.playbook{
+     margin-left: 500px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+     margin-right: 800px;
+    margin-top: 10px;
+}
+.playbook a{
+    color: white;
+    text-decoration: none;
+}
+.playbook a:hover{
+    color:RGB(255, 199, 38) ;
+}
+.kickoff{
+     font-family:Arial, Helvetica, sans-serif ;
+    font-size: 31.5px;
+    font-weight: 700;
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.kickoff a{
+    text-decoration: none;
+    color: white;
+}
+.kickoff a:hover{
+    color:RGB(255, 199, 38) ;
+}
+.client{
+     margin-left: 500px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.lonna{
+    margin-left: 500px;
+    font-size: 20px;
+    color: #e7d18f;
+    text-decoration: none;
+}
+.lonna:hover{
+    color:  RGB(255, 199, 38);
+}
+.again{
+     font-size: 20px;
+}
+.success{
+     margin-left: 500px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+     margin-right: 800px;
+    margin-top: 10px;
+}
+.success a{
+    color: white;
+    text-decoration: none;
+}
+.success a:hover{
+   color:RGB(255, 199, 38) ;
+}
+.tips{
+     font-family:Arial, Helvetica, sans-serif ;
+    font-size: 31.5px;
+    font-weight: 700;
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.tips a{
+     text-decoration: none;
+    color: white;
+}
+.tips a:hover{
+     color:RGB(255, 199, 38) ;
+}
+.great{
+     margin-left: 500px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.taute{
+     margin-left: 500px;
+    font-size: 20px;
+    color: #e7d18f;
+    text-decoration: none;
+}
+.taute:hover{
+  color:RGB(255, 199, 38) ;  
+}
+.lol{
+     font-size: 20px;
+}
+.almost{
+     margin-left: 500px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+     margin-right: 800px;
+    margin-top: 10px;
+}
+.almost a{
+      color: white;
+    text-decoration: none;
+}
+.almost a:hover{
+     color:RGB(255, 199, 38) ;
+}
+.automated{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 31.5px;
+    font-weight: 700;
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.automated a{
+ text-decoration: none;
+    color: white;
+} 
+.automated a:hover{
+      color:RGB(255, 199, 38) ;
+}
+.action{
+     margin-left: 500px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.carvalho{
+      margin-left: 500px;
+    font-size: 20px;
+    color: #e7d18f;
+    text-decoration: none;
+}
+.carvalho:hover{
+     color:RGB(255, 199, 38) ;  
+}
+.again{
+     font-size: 20px;
+}
+.last{
+     margin-left: 500px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+     margin-right: 800px;
+    margin-top: 10px;
+}
+.last a{
+      color: white;
+    text-decoration: none;
+}
+.last a:hover{
+      color:RGB(255, 199, 38) ;
+}
+.letter {
+    margin-left: 800px;
+    margin-top: 20px;
+    gap: 30px;
+    display: flex;
+}
+.one{
+    font-size: 23px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+     color:RGB(255, 199, 38) ;  
+    
+}
+.two{
+    color: white;
+     text-decoration: underline;
+    text-decoration-style:dotted ;
+     font-size: 23px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.two:hover{
+      color:RGB(255, 199, 38) ;
+text-decoration: underline;
+}
+.three{
+     color: white;
+     text-decoration: underline;
+    text-decoration-style:dotted ;
+     font-size: 23px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.three:hover{
+     color:RGB(255, 199, 38) ;
+text-decoration: underline;
+}
+.four{
+      color: white;
+     text-decoration: underline;
+    text-decoration-style:dotted ;
+     font-size: 23px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.four:hover{
+     color:RGB(255, 199, 38) ;
+text-decoration: underline;
+}
+.five{
+     color: white;
+     text-decoration: underline;
+    text-decoration-style:dotted ;
+     font-size: 23px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.five:hover{
+     color:RGB(255, 199, 38) ;
+text-decoration: underline;
+}
+.dot{
+    align-items: center;
+    font-size: 22.5px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.six{
+     color: white;
+     text-decoration: underline;
+    text-decoration-style:dotted ;
+     font-size: 23px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.six:hover{
+     color:RGB(255, 199, 38) ;
+text-decoration: underline;
+}
+.seven{
+    color: white;
+     text-decoration: underline;
+    text-decoration-style:dotted ;
+     font-size: 23px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.seven:hover{
+      color:RGB(255, 199, 38) ;
+text-decoration: underline;
+}
+.line{
+    border: 2px solid #2F1C1C;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.parent{
+    display: flex;
+}
+.child1:nth-child(1){
+    /* border: 2px solid red; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+   margin-left: 100px; 
+   width: 45%;
+}
+.child2:nth-child(2){
+    display: flex;
+    gap: 200px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    
+}
+.child2:nth-child(2) a{
+    /* border: 2px solid red; */
+     color: white;
+     text-decoration: underline;
+    text-decoration-style:dotted ;
+}
+.child2:nth-child(2) a:hover{
+    text-decoration: none;
+    color: RGB(255, 199, 38) ;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+}
+.column a{
+    margin-bottom: 8px;
+}
+ .child2:nth-child(2) .talk a{
+     color: #e7d18f;
+     text-decoration: underline;
+ }
+.child2:nth-child(2) .talk a:hover{
+    color:  RGB(255, 199, 38);
+    text-decoration: none;
+}
+.parent2{
+    display: flex;
+}
+.child3:nth-child(1){
+    /* border: 2px solid red; */
+     margin-left: 100px; 
+   width: 45%;
+   font-size: 16px;
+   font-weight: 400;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.child4:nth-child(2){
+    margin-top: 20px;
+     width: 45%;
+     
+}
+.child4:nth-child(2) a{
+    color: white;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.contact{
+    display: flex;
+    gap: 20px;
+}
+.link{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    gap: 20px;
+    display: flex;
+    margin-top: 10px;
+}
+.link:hover a{
+    text-decoration: none;
+}
